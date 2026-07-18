@@ -18,8 +18,6 @@ A Java Console-Based Hotel Room Booking System developed to manage hotel room re
 ## 📸 Screenshots
 See the screenshots uploaded in this repository.
 
-## 🎥 Demo Video
-Demo Video: (Paste your Google Drive link here)
 
 ## ▶️ How to Run
 1. Download the project.
