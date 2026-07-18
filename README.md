@@ -28,4 +28,4 @@ See the screenshots uploaded in this repository.
 
 ## 👨‍💻 Author
 **Sadique Reyan**
-Mechanical Engineering Student | Java Developer
+Mechanical Engineering Student 
